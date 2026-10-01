@@ -1,5 +1,10 @@
-# Salamander Catalogs
+# Salamander Catalogs 📚📺
 
-Curated catalogs pack for the Arvio streaming app. Ready for direct import into the app.
+A curated catalog pack for the Arvio streaming app. Import the pack directly into Arvio using the URL below.
 
-## Import URL: https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/refs/heads/main/arvio-catalogs-pack.json
+## Import
+
+[Copy the catalog pack URL](https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json) and paste it into Arvio’s catalog import field.
+
+```text
+https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json
