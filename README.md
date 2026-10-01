@@ -1,2 +1,5 @@
-# Kaptains-Collection
-Default Kaptains Collection JSON that updates
+# Salamander Catalogs
+
+Curated catalogs pack for the Arvio streaming app. Ready for direct import into the app.
+
+## Import URL: 
