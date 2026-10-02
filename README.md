@@ -4,7 +4,7 @@ A curated catalog pack for the Arvio streaming app. Import the pack directly int
 
 ## Import
 
-[Copy the catalog pack URL](https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json) and paste it into Arvio’s catalog import field.
+[Copy the catalog pack URL](https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json) and paste it into Arvio’s catalog pack import field.
 
 ```text
 https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json
