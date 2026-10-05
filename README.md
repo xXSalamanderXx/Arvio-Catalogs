@@ -1,4 +1,4 @@
-# Salamander Catalogs 📚📺
+# Arvio Catalogs 📚📺
 
 A curated catalog pack for the Arvio streaming app. Import the pack directly into Arvio using the URL below.
 
