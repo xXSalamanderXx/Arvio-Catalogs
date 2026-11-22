@@ -4,6 +4,18 @@ A curated collection of MDBList catalogs, packaged for easy importing into Arvio
 
 Discover movies and TV shows through trending lists, latest releases, documentaries, genre collections, and more.
 
+## What Is Arvio?
+
+[Arvio](https://arvio.tv/) is an open-source media hub for Android TV, phones, tablets, and the web. It brings media discovery and playback from user-configured sources into one interface, with support for home media servers such as Jellyfin, Plex, and Emby, compatible addons, and IPTV sources.
+
+Catalogs are browsable lists of movies or TV shows. This repository provides a ready-made pack of MDBList catalogs to help you discover titles in Arvio without adding every list individually.
+
+Importing this pack adds discovery catalogs, not streaming access. You still need to configure your own sources and any subscriptions required by the services you connect.
+
+- [Arvio website](https://arvio.tv/) — learn about the app and find download options.
+- [Arvio on GitHub](https://github.com/ProdigyV21/ARVIO) — explore the project and its documentation.
+- [Catalog and collection guide](https://arvio.tv/collections-catalogs/) — learn how catalogs work and how to import them.
+
 ## Import
 
 1. Copy the catalog pack URL below.
@@ -11,7 +23,7 @@ Discover movies and TV shows through trending lists, latest releases, documentar
 3. Paste the URL and import the pack.
 
 ```text
-[https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json](https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json)
+https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json
 ```
 
 [Open the raw catalog pack](https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json)
@@ -56,7 +68,7 @@ Found a broken catalog or have a suggestion?
 ---
 
 <p align="center">
-  <b>⭐ Star the repo • ☕ Support development • 🚀 Explore more projects</b>
+  <b>⭐ Star the repo • ☕ Support development • 🚀 Explore more projects</b>
 </p>
 
 ## ⭐ Show Your Support
@@ -106,3 +118,4 @@ This repository is licensed under the MIT License.
 See the full license here: [MIT License](https://github.com/xXSalamanderXx/Arvio-Catalogs/blob/main/LICENSE).
 
 Third-party services, catalog data, and linked collections remain subject to their respective terms and rights.
+
