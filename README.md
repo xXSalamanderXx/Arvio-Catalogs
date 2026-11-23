@@ -26,10 +26,6 @@ Importing this pack adds discovery catalogs, not streaming access. You still nee
 https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json
 ```
 
-[Open the raw catalog pack](https://raw.githubusercontent.com/xXSalamanderXx/Arvio-Catalogs/main/arvio-catalogs-pack.json)
-
-> Use the raw URL above when importing. The GitHub file-view link below is for browsing the pack's contents.
-
 ## Included Catalogs
 
 The pack includes movie and TV catalogs covering:
