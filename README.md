@@ -1,8 +1,8 @@
 # Arvio Catalogs 📚📺
 
-A curated collection of MDBList catalogs, packaged for easy importing into Arvio.
+A curated collection of MDBList catalogs, packaged for easy importing into the Arvio app.
 
-Discover movies and TV shows through trending lists, latest releases, documentaries, genre collections, and more.
+Discover Movies and TV Shows through trending lists, latest releases, popular content, documentaries, genre collections, and more. All through one single effortless import.
 
 ## What Is Arvio?
 
